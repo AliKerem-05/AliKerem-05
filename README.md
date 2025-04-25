@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Natural Language Processing Modals** and **React Native with JavaScript** 
 - 💞️ I’m looking to collaborate on **Innovative Agricultural Projects**
 
-## 🛠️ Yetenekler
+## 🛠️ Skills
 - Languages: Python, C, MatLab, JavaScript
 - Tools: Git, Altium, LTSpice
 
