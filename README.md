@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Ali Kerem KAHVECİ
 
 ## 💼 About me 
-- 👀 I’m interested in **PCB designing** | **3D printers** | **Autonomous Vehicles** | **Machine Learning** | **App designing**
-- 🔭 I’m currently working on **"EventNest"** and meanwhile some improvements on 3D printers
-- 🌱 I’m currently learning **Natural Language Processing Modals** and **React Native with JavaScript** 
-- 💞️ I’m looking to collaborate on **Innovative Agricultural Projects**
+👀 I’m interested in **PCB designing** | **3D printers** | **Autonomous Vehicles** | **Machine Learning** | **App designing**
+🔭 I’m currently working on **"EventNest"** and meanwhile some improvements on 3D printers
+🌱 I’m currently learning **Natural Language Processing Modals** and **React Native with JavaScript** 
+💞️ I’m looking to collaborate on **Innovative Agricultural Projects**
 
 ## 🛠️ Skills
 - Languages: Python, C, MatLab, JavaScript
