@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Kerem KAHVECİ
-- 👀 I’m interested in PCB designing | Autonomous Vehicles | Machine Learning | App design
+- 👀 I’m interested in PCB designing | Autonomous Vehicles | Machine Learning | App designing
 - 🌱 I’m currently learning Natural Language Processing Modals and React Native with JavaScript 
 - 💞️ I’m looking to collaborate on Innovative Agricultural Projects
 - 📫 How to reach me =>  alikeremkahveci05@gmail.com
